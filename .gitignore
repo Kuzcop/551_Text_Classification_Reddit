@@ -26,3 +26,8 @@ Data/hp_optimization/Mean errors_2_0.2.csv
 Data/hp_optimization/results_SVM_2_0.2.csv
 Data/hp_optimization/results_SVM_processed_2_0.2.csv
 Data/hp_optimization/SVM linear 0.001 1.png
+Classification Metrics SVMp.csv
+Data/hp_optimization/infos_p_0.2.csv
+Data/hp_optimization/results_SVM_processed_p_0.2.csv
+Data/hp_optimization/results_SVM_p_0.2.csv
+Data/hp_optimization/Mean errors_p_0.2.csv
