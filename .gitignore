@@ -8,3 +8,12 @@ Output_comp.csv
 Processed Test.csv
 processed.csv
 Data/dictionnaire.txt
+Data/hp_optimization/infos_0.2.csv
+Data/hp_optimization/infos.csv
+Data/hp_optimization/Mean errors_0.2.csv
+Data/hp_optimization/Mean errors.csv
+Data/hp_optimization/results_SVM_processed_0.2.csv
+Data/hp_optimization/results_SVM_0.2.csv
+Data/hp_optimization/results_SVM_processed.csv
+Data/hp_optimization/SVM poly 0.01 9000.png
+Data/hp_optimization/SVM_9000_poly_0.01_1confusion matrix.png
