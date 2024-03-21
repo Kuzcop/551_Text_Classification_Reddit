@@ -1,0 +1,33 @@
+results_SVM.csv
+English dictionnary.csv
+dictionnary.csv
+french dictionary.csv
+French dictionnary.csv
+french.csv
+Output_comp.csv
+Processed Test.csv
+processed.csv
+Data/dictionnaire.txt
+Data/hp_optimization/infos_0.2.csv
+Data/hp_optimization/infos.csv
+Data/hp_optimization/Mean errors_0.2.csv
+Data/hp_optimization/Mean errors.csv
+Data/hp_optimization/results_SVM_processed_0.2.csv
+Data/hp_optimization/results_SVM_0.2.csv
+Data/hp_optimization/results_SVM_processed.csv
+Data/hp_optimization/SVM poly 0.01 9000.png
+Data/hp_optimization/SVM_9000_poly_0.01_1confusion matrix.png
+Classification Metrics LR.csv
+Classification Metrics SVM.csv
+Confusion matrix for 0.2 LR.png
+Confusion matrix for 0.2 SVM.png
+Data/hp_optimization/infos_2_0.2.csv
+Data/hp_optimization/Mean errors_2_0.2.csv
+Data/hp_optimization/results_SVM_2_0.2.csv
+Data/hp_optimization/results_SVM_processed_2_0.2.csv
+Data/hp_optimization/SVM linear 0.001 1.png
+Classification Metrics SVMp.csv
+Data/hp_optimization/infos_p_0.2.csv
+Data/hp_optimization/results_SVM_processed_p_0.2.csv
+Data/hp_optimization/results_SVM_p_0.2.csv
+Data/hp_optimization/Mean errors_p_0.2.csv
