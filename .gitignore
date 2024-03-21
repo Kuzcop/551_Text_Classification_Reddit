@@ -31,3 +31,8 @@ Data/hp_optimization/infos_p_0.2.csv
 Data/hp_optimization/results_SVM_processed_p_0.2.csv
 Data/hp_optimization/results_SVM_p_0.2.csv
 Data/hp_optimization/Mean errors_p_0.2.csv
+Data/NB_CV_Results.pkl
+Naive Bayes Confusion Matrix.png
+Logistic Regression Confusion Matrix.png
+Linear SVC Results.csv
+Linear SVC Confusion Matrix.png
